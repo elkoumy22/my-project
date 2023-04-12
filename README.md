@@ -1,1 +1,4 @@
 # my project
+
+project notes
+
